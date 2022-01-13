@@ -1,4 +1,16 @@
 * {
   box-sizing: border-box;
   margin: 0;
+  font-size: 18px;
 }
+
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+/* 
+font-family: 'Open Sans', sans-serif;
+
+Heading
+font-family: 'Poppins', sans-serif;
+*/
