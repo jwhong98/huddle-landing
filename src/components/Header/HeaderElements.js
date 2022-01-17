@@ -19,7 +19,7 @@ export const Nav = styled.nav`
 `;
 
 export const Logo = styled.img`
-  width: 5.25rem;
+  width: 6.25rem;
 `;
 
 export const NavButton = styled.button`
@@ -31,7 +31,7 @@ export const NavButton = styled.button`
   padding: 0.25rem 1.25rem;
   border-radius: 25px;
   font-family: inherit;
-  /* box-shadow: 0px 1px 10px 5px; */
+  box-shadow: 0 2px 5px rgb(0 0 0 / 0.2);
 `;
 
 export const TextWrap = styled.div`

@@ -11,4 +11,5 @@ export const Btn = styled.button`
   text-transform: capitalize;
   font-size: 0.75rem;
   cursor: pointer;
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
 `;

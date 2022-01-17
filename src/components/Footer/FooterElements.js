@@ -4,10 +4,12 @@ export const Foot = styled.footer`
   width: 100%;
   background-color: hsl(192, 100%, 9%);
   padding: 3rem 1rem;
+  z-index: 1;
+  margin-top: -4.25rem;
 `;
 
 export const Logo = styled.img`
-  margin-top: 3rem;
+  margin-top: 3.25rem;
   margin-bottom: 1rem;
   filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(300deg)
     brightness(107%) contrast(102%);

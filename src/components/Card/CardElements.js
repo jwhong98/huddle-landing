@@ -6,8 +6,8 @@ export const Container = styled.div`
   display: flex;
   flex-direction: column;
   align-items: center;
-  box-shadow: 0 1px 5px 1px hsl(208, 11%, 55%);
-  border-radius: 5px;
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+  border-radius: 15px;
   margin-top: 1.5rem;
 `;
 
